@@ -539,7 +539,7 @@ Certificates
   max-width: 1000px;
   position: relative;
   margin: auto;
-  box-shadow: 1.3rem 1.3rem 2rem silver;
+  box-shadow: 1.3em 1.3em 1em silver;
   border: none;
   border-radius: 2em;
 }
